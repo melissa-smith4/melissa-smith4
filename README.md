@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**melissa-smith4/melissa-smith4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Melissa and I'm an undergrad student studying computer science!
 
-Here are some ideas to get you started:
+- ❤️ I’m passionate about learning new concepts and creating innovative solutions
+- 💡 I'm interested in the software engineering and cybersecurity fields
+- 🌱 I’m currently learning to create webpages using HTML
+- ⚡ Fun fact: I love reading and trying new restaurants
+- 😄 Pronouns: She/Her
+- 📫 Let's connect!:
+    - Linkedin: www.linkedin.com/in/melissa-smith-4ab103325
+    - Email: melissa.msmith40@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
